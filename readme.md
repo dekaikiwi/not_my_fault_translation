@@ -1,6 +1,6 @@
 # Not my Fault! (俺のせいじゃない) Unofficial English Translation
 
-English Translations for the rules for 'Not my Fault' a bluff card game originally crated by [ゲーム工房スパ帝国](http://spa-game.com).
+English Translations for the rules for 'Not my Fault' a bluff card game originally created by [ゲーム工房スパ帝国](http://spa-game.com).
 
 Please support the original release
 
